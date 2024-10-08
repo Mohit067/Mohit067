@@ -1,3 +1,4 @@
+![logo](git1.png)
 <h1 align="center">Hi 👋, I'm Mohit Sahu</h1>
 <h3 align="center">Engineering student skilled in C++, with knowledge of DSA, and learning HTML, CSS, JavaScript and more.</h3>
 
